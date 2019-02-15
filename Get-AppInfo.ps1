@@ -1,5 +1,6 @@
 <#
-
+    .Get-AppInfo
+        - Use this function to find out information about an application.
 #>
 Function Get-AppInfo {
     [CmdletBinding()]
